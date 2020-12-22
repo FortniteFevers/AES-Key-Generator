@@ -3,4 +3,5 @@ A program which can generate the current Fortnite AES keys and saves them all to
 
 # Requirements
 
+> Python 3.9 or lower
 > requests
