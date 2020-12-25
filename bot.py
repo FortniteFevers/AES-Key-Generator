@@ -9,6 +9,8 @@ import json
 
 filepath = 'XXXXXXXXXX'
 
+# You can leave this blank if you want, but if it doesnt work then put the filepath in.
+
 #--------
 
 print('Grabbing aes keys Keys...\n')
