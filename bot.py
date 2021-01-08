@@ -30,7 +30,7 @@ dynamic = response.json()['data']['dynamicKeys']
 print('Main keys grabbed!')
 
 # Opens our txt file and writes content
-f= open(f'{filepath}aes.txt', 'w')
+f= open(f'aes.txt', 'w')
 
 f.write(f'Current Main AES Key for v{version}0:\n0x{main}\n\n\nDynamic Keys:\n\n')
 
