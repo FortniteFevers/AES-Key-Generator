@@ -1,26 +1,14 @@
-Current Main AES Key for v15.10:
-0x7fe21f0b0d2c00867cd7b6da553d0b6b00cfaf66e0bbb8d5365672afb442e8ee
+Current Main AES Key for v15.20:
+0x36983d73a17caf253f9d1a322a79d6dc53d8e81b661b7564343f41d4835275d5
 
 
 Dynamic Keys:
 
-pakchunk1000-WindowsClient: 
-0xdcaae63eed876bf5f4a32fcc59dd1ae0ef098495a58b931db5f1b85f3781db8f
-
-pakchunk1000optional-WindowsClient: 
-0xdcaae63eed876bf5f4a32fcc59dd1ae0ef098495a58b931db5f1b85f3781db8f
-
-pakchunk1001-WindowsClient: 
-0x1fc79a72f5b7ae099916f5861b05dfa2370804cad050bf85250d71dddcf3566d
-
-pakchunk1001optional-WindowsClient: 
-0x1fc79a72f5b7ae099916f5861b05dfa2370804cad050bf85250d71dddcf3566d
-
 pakchunk1004-WindowsClient: 
-0x81a9b9b157222cfccaafec2658ea1cb4ba391c5a81bc12ca29cc61e99575927d
+0x581d53157b01d82cb0cdbd7a859d8774173c5f516c4d5ab3943c21c893bc3dc7
 
 pakchunk1004optional-WindowsClient: 
-0x81a9b9b157222cfccaafec2658ea1cb4ba391c5a81bc12ca29cc61e99575927d
+0x581d53157b01d82cb0cdbd7a859d8774173c5f516c4d5ab3943c21c893bc3dc7
 
 pakchunk1005-WindowsClient: 
 0x7dec1e6b26ce85b7680555f97064ceaa5c788dfdc674f98a6a711f726dedb943
@@ -28,43 +16,4 @@ pakchunk1005-WindowsClient:
 pakchunk1005optional-WindowsClient: 
 0x7dec1e6b26ce85b7680555f97064ceaa5c788dfdc674f98a6a711f726dedb943
 
-pakchunk1006-WindowsClient: 
-0x0ae99ddffd249ec770b786e5ef3350c3c30a9a622e0bfe306157d5b50ab9776a
-
-pakchunk1007-WindowsClient: 
-0x484a2aa307a87f19977f1bbce3cc0a9f550987053ba10db0d85d2506cb7e1675
-
-pakchunk1007optional-WindowsClient: 
-0x484a2aa307a87f19977f1bbce3cc0a9f550987053ba10db0d85d2506cb7e1675
-
-pakchunk1008-WindowsClient: 
-0x3af673a84ace52487915c884243f0923e96ee17e4d98ae53b73bc22ba17944ce
-
-pakchunk1008optional-WindowsClient: 
-0x3af673a84ace52487915c884243f0923e96ee17e4d98ae53b73bc22ba17944ce
-
-pakchunk1009-WindowsClient: 
-0x09e774f944de4c16c38671ccf662d3939ab1973dd864ae9d127d54f8d4f13a4a
-
-pakchunk1009optional-WindowsClient: 
-0x09e774f944de4c16c38671ccf662d3939ab1973dd864ae9d127d54f8d4f13a4a
-
-pakchunk1010-WindowsClient: 
-0xe024bd5b2841fada5b97fc386ddfbd7278d66537f43423bcce5d7fe9398841e3
-
-pakchunk1010optional-WindowsClient: 
-0xe024bd5b2841fada5b97fc386ddfbd7278d66537f43423bcce5d7fe9398841e3
-
-pakchunk1013-WindowsClient: 
-0xb3d3fb00e9280ae3e6ff9d3a87200acee45a221d31cd5f5864e378a03b3b1a86
-
-pakchunk1013optional-WindowsClient: 
-0xb3d3fb00e9280ae3e6ff9d3a87200acee45a221d31cd5f5864e378a03b3b1a86
-
-pakchunk1014-WindowsClient: 
-0xd09ead5a1131d0dc70e3d568908cb2912b39b0be5a14f824d90267f5be5b022f
-
-pakchunk1015-WindowsClient: 
-0x31d29b6b03487b8a82b86681e2aefee1ccbc91ec839c99f164b6bb1cb0b45b80
-
-AES Generator made by Fevers - GitHub version, updated daily.
+AES Generator made by Fevers
