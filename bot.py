@@ -1,18 +1,6 @@
 import requests
 import json
 
-#--------
-
-# Make sure that your file path has two '\' in it and ends with '\\'
-
-# Example: C:\\Users\\Fevers\\Desktop\\AES-Bot\\
-
-filepath = 'XXXXXXXXXX'
-
-# You can leave this blank if you want, but if it doesnt work then put the filepath in.
-
-#--------
-
 print('Grabbing aes keys Keys...\n')
 
 # Grabs version
@@ -30,7 +18,7 @@ dynamic = response.json()['data']['dynamicKeys']
 print('Main keys grabbed!')
 
 # Opens our txt file and writes content
-f= open(f'aes.txt', 'w')
+f= open(f'{version}0 - aes.txt', 'w')
 
 f.write(f'Current Main AES Key for v{version}0:\n0x{main}\n\n\nDynamic Keys:\n\n')
 
