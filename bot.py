@@ -1,6 +1,18 @@
 import requests
 import json
 
+#--------
+
+# Make sure that your file path has two '\' in it and ends with '\\'
+
+# Example: C:\\Users\\Fevers\\Desktop\\AES-Bot\\
+
+filepath = 'XXXXXXXXXX'
+
+# You can leave this blank if you want, but if it doesnt work then put the filepath in.
+
+#--------
+
 print('Grabbing aes keys Keys...\n')
 
 # Grabs version
@@ -41,5 +53,13 @@ print(f'\nThere are {x} Dynamic Keys detected. Writing all {x} keys to file...')
 f.write('AES Generator made by Fevers')
 
 print(f'\nGrabbed and wrote all AES keys for version v{version}0.')
+
+bruh = x + 1
+
+response1 = requests.get('https://benbotfn.tk/api/v1/status')
+
+alldynamic = response1.json()['dynamicPakCount']
+
+print(f'\nGrabbed {bruh}/{alldynamic} non-encrypted paks.')
 
 f.close()
